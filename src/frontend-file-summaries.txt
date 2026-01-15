@@ -1,0 +1,4 @@
+{
+  "frontend/src/App.tsx": "Main application component that displays the word \"tokio\" centered vertically and horizontally on a white background with black text.",
+  "frontend/src/index.css": "Global styles with OKLCH color system and explicit white background and black text for the body element."
+}
